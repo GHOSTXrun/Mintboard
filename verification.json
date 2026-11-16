@@ -1,0 +1,17 @@
+{
+  "downloaded_website_assets": 29,
+  "local_resource_references_checked": 28,
+  "missing_local_files": [],
+  "javascript_syntax": "passed",
+  "webgl_visual_test": "unverified: the test browser disables WebGL; live original fails for the same reason",
+  "transactions_signed_or_broadcast": false,
+  "http_resource_probe": "Not available from the executor network: browser preview is in a separate network namespace. Static references validated against local files; browser tests recorded separately.",
+  "browser_tests": {
+    "independent_emulator_boot": "passed",
+    "pump_app_install": "passed, all 12 embedded files installed",
+    "pump_app_launch": "passed, DEVNET launch form rendered; no launch submitted",
+    "repository_subdirectory_emulator_boot": "passed",
+    "repository_subdirectory_pump_install": "passed",
+    "main_3d_page": "unverified; renderer reports WebGL disabled in test browser"
+  }
+}

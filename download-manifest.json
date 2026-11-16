@@ -1,0 +1,185 @@
+{
+  "capture_date": "2026-11-16",
+  "original_assets": [
+    {
+      "path": "_next/static/chunks/08ze1lqk82gu5.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/08ze1lqk82gu5.js",
+      "bytes": 229639,
+      "sha256": "f05abd9c527383e0771394e3860ad83eb85f999444819a00f4a9d77d58cab829"
+    },
+    {
+      "path": "_next/static/chunks/0c0hxoamwjsbw.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/0c0hxoamwjsbw.js",
+      "bytes": 112594,
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+    },
+    {
+      "path": "_next/static/chunks/0dt62afv3hkff.css",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/0dt62afv3hkff.css",
+      "bytes": 37698,
+      "sha256": "a6cdc6275565c1f1d489315cd694db0148aafd9aca89afc6440aba027fc58b29"
+    },
+    {
+      "path": "_next/static/chunks/0hk1q95nku75f.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/0hk1q95nku75f.js",
+      "bytes": 21938,
+      "sha256": "1cd50d400d6d216aa221a9fdd03ecaf8ff04e55770fbe53397015cbe8cbf6584"
+    },
+    {
+      "path": "_next/static/chunks/0u0xkz5y-vkqs.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/0u0xkz5y-vkqs.js",
+      "bytes": 28266,
+      "sha256": "8f0f84aed9a3cee17be7bf532cd31737a5b8823cca29f4ad82f4d51406cd7d2f"
+    },
+    {
+      "path": "_next/static/chunks/13j278kkyyg0r.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/13j278kkyyg0r.js",
+      "bytes": 177742,
+      "sha256": "566ac6d8409b0b565b7a8f0510aadbcacf9b85700e0f02be283d18b0bd184d73"
+    },
+    {
+      "path": "_next/static/chunks/1w53z2ftp1lkh.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/1w53z2ftp1lkh.js",
+      "bytes": 31713,
+      "sha256": "2ed442bf3496440d78c320095652e2d4b1a7b1dcda9a892c69b8997442c976bd"
+    },
+    {
+      "path": "_next/static/chunks/2q0p-cwe362xn.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/2q0p-cwe362xn.js",
+      "bytes": 14384,
+      "sha256": "f277c70bc26ee85523cf818f087c8b8b55158b106a6d010121c2f0ae60602191"
+    },
+    {
+      "path": "_next/static/chunks/3ll42kkohb-3t.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/3ll42kkohb-3t.js",
+      "bytes": 891800,
+      "sha256": "5a1ca482ca652e1e70409015883b8f4987665a7edd7869b4f8c3cbb97d2772f0"
+    },
+    {
+      "path": "_next/static/chunks/turbopack-07graka23mksq.js",
+      "source_url": "https://homemadebadge.com/_next/static/chunks/turbopack-07graka23mksq.js",
+      "bytes": 9619,
+      "sha256": "5a4f8bb94233f4bcfade41fdd7a35b3ea8277d4d07bfb1260f52ab52d9a03141"
+    },
+    {
+      "path": "_next/static/media/04c5164763c40239-s.1zakzi6q17d4o.woff2",
+      "source_url": "https://homemadebadge.com/_next/static/media/04c5164763c40239-s.1zakzi6q17d4o.woff2",
+      "bytes": 1664,
+      "sha256": "9343de2ca5d9549f792e7962375af8efb0f320c7643bfd36c884b5a30e5c396f"
+    },
+    {
+      "path": "_next/static/media/051742360c26797e-s.p.1wmoa0e_blxrz.woff2",
+      "source_url": "https://homemadebadge.com/_next/static/media/051742360c26797e-s.p.1wmoa0e_blxrz.woff2",
+      "bytes": 31340,
+      "sha256": "2c32b9b3ee358c119e210f6f5195f9bd34894d78a785ff2e95d60e718e400af4"
+    },
+    {
+      "path": "_next/static/media/26f284dcc38c84c0-s.2htf8h-pf57mm.woff2",
+      "source_url": "https://homemadebadge.com/_next/static/media/26f284dcc38c84c0-s.2htf8h-pf57mm.woff2",
+      "bytes": 8892,
+      "sha256": "4995a9a43ac659ec32fcd8b463755cd6a07b31a6e6b3894a6a153b661cf490e2"
+    },
+    {
+      "path": "_next/static/media/3fd3996b158903a9.2szpms8pjviv6.woff2",
+      "source_url": "https://homemadebadge.com/_next/static/media/3fd3996b158903a9.2szpms8pjviv6.woff2",
+      "bytes": 9180,
+      "sha256": "2feeacc945bbe461ea51da6d04f1889b0be6f2eff282afbd60733589a55bc10a"
+    },
+    {
+      "path": "_next/static/media/61a58143c2e45268.p.14th7iya-pf29.woff2",
+      "source_url": "https://homemadebadge.com/_next/static/media/61a58143c2e45268.p.14th7iya-pf29.woff2",
+      "bytes": 16880,
+      "sha256": "ad19ee1cf94a118a2bd005be3b2362efffbb8b1a4c106a75caec0c6d02fac917"
+    },
+    {
+      "path": "_next/static/media/6a5386fd6038edbe-s.3vf5yzuqk3fsd.woff2",
+      "source_url": "https://homemadebadge.com/_next/static/media/6a5386fd6038edbe-s.3vf5yzuqk3fsd.woff2",
+      "bytes": 11596,
+      "sha256": "9c38cb2d0d2d93c1ee6e21fa78db76f13ea7e15e15cc64214c7ca89b6aaa35c4"
+    },
+    {
+      "path": "_next/static/media/7e7f32a39836f228-s.3skwie1wjplzh.woff2",
+      "source_url": "https://homemadebadge.com/_next/static/media/7e7f32a39836f228-s.3skwie1wjplzh.woff2",
+      "bytes": 6800,
+      "sha256": "49c3da6c9a2b279b0f1f860f5cfb1f5dc38d88a5c7be9c9b1837bbc4e3db6111"
+    },
+    {
+      "path": "_next/static/media/fa39153a3fc630ba-s.3zhbgtelpa5ua.woff2",
+      "source_url": "https://homemadebadge.com/_next/static/media/fa39153a3fc630ba-s.3zhbgtelpa5ua.woff2",
+      "bytes": 5872,
+      "sha256": "d44eb1936043a56038eb02dd70b243f379bef65783f94ec12f277550720411f1"
+    },
+    {
+      "path": "apple-icon.png",
+      "source_url": "https://homemadebadge.com/apple-icon.png",
+      "bytes": 3297,
+      "sha256": "4c162b059cf2be8cf74b82eaf26a11e9321ac541f6ba2c8253f74bcc45a31585"
+    },
+    {
+      "path": "emulator/apps/pump.txt",
+      "source_url": "https://homemadebadge.com/emulator/apps/pump.txt",
+      "bytes": 141117,
+      "sha256": "01a60d71c120400401ff9c90a8493e87e57fc176f3b0ec889dd3625de1c36666"
+    },
+    {
+      "path": "emulator/solana-os.js",
+      "source_url": "https://homemadebadge.com/emulator/solana-os.js",
+      "bytes": 79048,
+      "sha256": "b8262d02ec7bf4f0cc48fa3c10a117f44f9b11103942780e4449de6b7684d90a"
+    },
+    {
+      "path": "emulator/solana-os.wasm",
+      "source_url": "https://homemadebadge.com/emulator/solana-os.wasm",
+      "bytes": 1696621,
+      "sha256": "5afae9aa7d39f93a89747d10f5b8ca68e69afc7a77426608a7db702dc4ab83d2"
+    },
+    {
+      "path": "icon.svg",
+      "source_url": "https://homemadebadge.com/icon.svg",
+      "bytes": 858,
+      "sha256": "8de0383079f67a937ac0a618083804585fc9171472b53627a2946233ee378b91"
+    },
+    {
+      "path": "icon1.png",
+      "source_url": "https://homemadebadge.com/icon1.png",
+      "bytes": 288,
+      "sha256": "1c7ec04edc5cb3cc97a3de41d31316a224f43971f863003fd9cae17e228fd618"
+    },
+    {
+      "path": "icon2.png",
+      "source_url": "https://homemadebadge.com/icon2.png",
+      "bytes": 425,
+      "sha256": "6ae84359d5f9b5c5a92b5af46195e7ae762eb6da177d8a868ed7fd367ab107ef"
+    },
+    {
+      "path": "icon3.png",
+      "source_url": "https://homemadebadge.com/icon3.png",
+      "bytes": 526,
+      "sha256": "39213c78c2bcc142431c8eeac09e582fc6a2cc88604594a985afb5a0b014a33b"
+    },
+    {
+      "path": "index.html",
+      "source_url": "https://homemadebadge.com/",
+      "bytes": 62297,
+      "sha256": "19332a88d83e8997ff34ae2765f4aee16fb42b2657bf37eeed784ef1cd100b62"
+    },
+    {
+      "path": "opengraph-image.png",
+      "source_url": "https://homemadebadge.com/opengraph-image.png",
+      "bytes": 90109,
+      "sha256": "8abc94608b2639f72ba508b0bd50f5a10b2ec833f1f70f69758fa5df930247fb"
+    },
+    {
+      "path": "twitter-image.png",
+      "source_url": "https://homemadebadge.com/twitter-image.png",
+      "bytes": 90109,
+      "sha256": "8abc94608b2639f72ba508b0bd50f5a10b2ec833f1f70f69758fa5df930247fb"
+    }
+  ],
+  "modified_for_portable_paths": [
+    "index.html",
+    "_next/static/chunks/turbopack-07graka23mksq.js",
+    "_next/static/chunks/1w53z2ftp1lkh.js"
+  ],
+  "public_source_commit": "db54e34f879ea30900afcf1bb529f71af2598aab"
+}
